@@ -4,13 +4,13 @@ Apenas um entusiasta de cibersegurança focado em **Segurança Ofensiva** e **Pe
 
 ---
 
-### 🛡️ Minhas Conquistas & Rankings
+### 🛡️ Plataformas de estudo
 <!-- Substitua "SEU_USUARIO" pelo seu ID real das plataformas -->
 <div id="badges">
-  <a href="https://tryhackme.com" target="_blank">
-    <img src="https://assets.tryhackme.com/room-badges/5c6d93d5b63fe760727bd122d7e670d7.png" alt="TryHackMe" />
+  <a href="https://tryhackme.com/p/hugosantos" target="_blank">
+    <img src="https://shields.io" alt="TryHackMe" />
   </a>
-  <a href="https://hackthebox.com" target="_blank">
+  <a href="https://profile.hackthebox.com/profile/019dcaa4-7c79-7397-907b-f4640d369c58" target="_blank">
     <img src="https://shields.io" alt="HackTheBox" />
   </a>
 </div>
