@@ -8,7 +8,7 @@ Apenas um entusiasta de cibersegurança focado em **Segurança Ofensiva** e **Pe
 <!-- Substitua "SEU_USUARIO" pelo seu ID real das plataformas -->
 <div id="badges">
   <a href="https://tryhackme.com" target="_blank">
-    <img src="https://tryhackme.com/hugosantos/badges/owasp-10?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=60f5ac5071351e005bcc6b74" alt="TryHackMe" />
+    <img src="https://assets.tryhackme.com/room-badges/5c6d93d5b63fe760727bd122d7e670d7.png" alt="TryHackMe" />
   </a>
   <a href="https://hackthebox.com" target="_blank">
     <img src="https://shields.io" alt="HackTheBox" />
@@ -28,15 +28,15 @@ Apenas um entusiasta de cibersegurança focado em **Segurança Ofensiva** e **Pe
 ### 🛠️ Arsenal Técnico
 
 *   **Linguagens:** Python | Bash | PowerShell
-*   **Sistemas Operacionais:** Kali Linux | Parrot OS | Linux Sysadmin | Windows
-*   **Ferramentas:** Nmap | Burp Suite | Metasploit | Wireshark | Dirsearch | SQLmap
-*   **Metodologias:** OWASP Top 10 | OSSTMM
+*   **Sistemas Operacionais:** Kali Linux | Windows
+*   **Ferramentas:** Nmap | Burp Suite | Metasploit | Wireshark | Gobuster | SQLmap
+*   **Metodologias:** OWASP Top 10
 
 ---
 
 ### 🎓 Certificações & Estudos
 *   **Em andamento:** Preparação para a eJPT (eLearnSecurity Junior Penetration Tester).
-*   **Concluído:** Curso de Networking Fundamental para Hackers.
+*   **Concluído:** Pre-Security Path - TryHackMe, Cyber Security 101 Path - TryHackme.
 
 ---
 
