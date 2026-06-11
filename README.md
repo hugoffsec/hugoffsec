@@ -42,5 +42,5 @@ Apenas um entusiasta de cibersegurança focado em **Segurança Ofensiva** e **Pe
 
 ### 📬 Vamos nos conectar?
 
-*   **LinkedIn:** [://linkedin.com](https://linkedin.com/in/hugodeassis)
-*   **E-mail:** hugoassissantos@gmail.com
+*   [LinkedIn](https://linkedin.com/in/hugodeassis)
+*   E-mail: hugoassissantos@gmail.com
