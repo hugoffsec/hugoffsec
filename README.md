@@ -1,6 +1,6 @@
-# Hugo Santos
+# Sobre mim
 
-Apenas um entusiasta de cibersegurança focado em **Segurança Ofensiva** e **Pentesting**. Atualmente, estou focado em entender como os sistemas falham para ajudar empresas a construírem defesas mais robustas.
+Sou um entusiasta de cibersegurança especificamente em **Segurança Ofensiva** e **Pentesting**. Atualmente, estou focado em entender falhas em sistemas para ajudar empresas a construírem defesas mais robustas.
 
 ---
 
