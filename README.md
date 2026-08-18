@@ -1,11 +1,11 @@
 # Sobre mim
 
-Sou um entusiasta de cibersegurança especificamente em **Segurança Ofensiva** e **Pentesting**. Atualmente, estou focado em entender falhas em sistemas para ajudar empresas a construírem defesas mais robustas.
+Sou um entusiasta de cibersegurança especificamente em **Segurança Ofensiva/Pentesting**. Atualmente estou focado em entender falhas em sistemas para ajudar empresas ou instituições a construírem defesas mais robustas.
 
 ---
 
 ### 🛡️ Plataformas de estudo
-<!-- Substitua "SEU_USUARIO" pelo seu ID real das plataformas -->
+
 <div id="badges">
   <a href="https://tryhackme.com/p/hugosantos" target="_blank">
     <img src="https://shields.io" alt="TryHackMe" />
