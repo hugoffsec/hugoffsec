@@ -7,7 +7,7 @@ Sou um entusiasta de cibersegurança especificamente em **Segurança Ofensiva/Pe
 ### 🛡️ Plataformas de estudo
 
 <div id="badges">
-  <a href="https://tryhackme.com/p/hugosantos" target="_blank">
+  <a href="https://tryhackme.com/p/m4jor" target="_blank">
     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
   <a href="https://profile.hackthebox.com/profile/019dcaa4-7c79-7397-907b-f4640d369c58" target="_blank">
