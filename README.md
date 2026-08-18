@@ -8,10 +8,10 @@ Sou um entusiasta de cibersegurança especificamente em **Segurança Ofensiva/Pe
 
 <div id="badges">
   <a href="https://tryhackme.com/p/hugosantos" target="_blank">
-    <img src="https://shields.io" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
   <a href="https://profile.hackthebox.com/profile/019dcaa4-7c79-7397-907b-f4640d369c58" target="_blank">
-    <img src="https://shields.io" alt="HackTheBox" />
+    <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox" />
   </a>
 </div>
 
