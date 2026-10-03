@@ -1,6 +1,7 @@
 # Sobre mim
 
-Sou um entusiasta de cibersegurança especificamente em **Segurança Ofensiva/Pentesting**. Atualmente estou focado em entender falhas em sistemas para ajudar empresas ou instituições a construírem defesas mais robustas.
+Sou um entusiasta de cibersegurança especificamente em **Segurança Ofensiva/Pentesting**. 
+Atualmente estou focado em entender falhas em sistemas para ajudar empresas ou instituições a construírem defesas mais robustas.
 
 ---
 
@@ -19,28 +20,27 @@ Sou um entusiasta de cibersegurança especificamente em **Segurança Ofensiva/Pe
 
 ### 💻 Projetos em Destaque
 
-*   **[pymap](em desenvolvimento)**: Script em Python desenvolvido para automatizar a varredura e enumeração de subdomínios.
-*   **[CTF-Writeups](em andamento)**: Minha documentação detalhada de salas do TryHackMe e máquinas do Hack The Box resolvidos por mim.
-*   **[Pentest-Report-Template](em andamento)**: Modelos de relatórios técnicos e executivos criados para simular cenários reais de consultoria.
+*   **pymap (em desenvolvimento)**: Script em Python desenvolvido para automatizar a varredura e enumeração de subdomínios.
+*   **CTF-Writeups (em andamento)**: Minha documentação detalhada de salas do TryHackMe e máquinas do Hack The Box resolvidos por mim.
+*   **Pentest-Report-Template (em andamento)**: Modelos de relatórios técnicos e executivos criados para simular cenários reais de consultoria.
 
 ---
 
 ### 🛠️ Arsenal Técnico
 
-*   **Linguagens:** Python | Bash | PowerShell
-*   **Sistemas Operacionais:** Kali Linux | Windows
-*   **Ferramentas:** Nmap | Burp Suite | Metasploit | Wireshark | Gobuster | SQLmap
+*   **Linguagens:** Python | Bash | 
+*   **Sistemas Operacionais:** Windows | Linux
 *   **Metodologias:** OWASP Top 10
 
 ---
 
 ### 🎓 Certificações & Estudos
-*   **Em andamento:** Preparação para a eJPT (eLearnSecurity Junior Penetration Tester).
-*   **Concluído:** Pre-Security Path - TryHackMe, Cyber Security 101 Path - TryHackme.
+*   **Em andamento:** Preparação para a OSCP (PEN-200: Penetration Testing with Kali Linux)
+*   **Concluído:** Pre-Security Path (TryHackMe), Cyber Security 101 Path - (TryHackme)
 
 ---
 
-### 📬 Vamos nos conectar?
+### 📬 Contato
 
 *   [LinkedIn](https://linkedin.com/in/hugodeassis)
 *   E-mail: hugoassissantos@gmail.com
