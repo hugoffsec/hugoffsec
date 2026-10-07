@@ -28,7 +28,7 @@ Atualmente estou focado em entender falhas em sistemas para ajudar empresas ou i
 
 ### 🛠️ Arsenal Técnico
 
-*   **Linguagens:** Python | Bash | 
+*   **Linguagens:** Python | Bash | Java
 *   **Sistemas Operacionais:** Windows | Linux
 *   **Metodologias:** OWASP Top 10
 
