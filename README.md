@@ -1,6 +1,6 @@
 # Sobre mim
 
-Sou um entusiasta de cibersegurança especificamente em **Segurança Ofensiva/Pentesting**. 
+Sou um entusiasta de cibersegurança especificamente em **<i>Pentesting/Offensive Security</i>**.
 Atualmente estou focado em entender falhas em sistemas para ajudar empresas ou instituições a construírem defesas mais robustas.
 
 ---
